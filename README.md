@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/爱好-看剧-pink)
 
 ### 项目 Project
- <img align="right" alt="GIF" src="image.jpg" width="400" height="100%" />
+ <img align="right" alt="GIF" src="code.gif" width="430" height="100%" />
  
 挖坑：整理微信聊天记录可视化步骤
 
