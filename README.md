@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/爱好-看剧-pink)
 
 ### 项目 Project
- <img align="right" alt="GIF" src="image.jpg" width="430" height="100%" />
+ <img align="right" alt="GIF" src="image.jpg" width="400" height="100%" />
  
 [![](https://github-readme-stats.vercel.app/api/pin/?username=muoujiang&repo=muoujiang)](https://www.linkedin.com/feed/update/urn:li:activity:7229169962685247488/)
 <br><br><br>
