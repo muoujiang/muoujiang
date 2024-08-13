@@ -13,7 +13,7 @@
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](image.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/muoujiang/count.svg)
 
