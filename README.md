@@ -7,22 +7,14 @@
 ### 项目 Project
  <img align="right" alt="GIF" src="image.jpg" width="400" height="100%" />
  
+挖坑：整理微信聊天记录可视化步骤
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=muoujiang&repo=muoujiang)](https://www.linkedin.com/feed/update/urn:li:activity:7229169962685247488/)
+
+大佬弄的学术主页
+
+[![AcadHomepage](https://github-readme-stats.vercel.app/api/pin/?username=muoujiang&repo=muoujiang.github.io)](https://github.com/muoujiang/muoujiang.github.io)
 <br><br><br>
-
-刚做完微信聊天记录可视化
-
-但是tableau导出不了pdf
-
-导出的ppt无法全凭显示
-
-直接截图的话清晰度不够
-
-我只是在水字数
-
-水
-
-
 
 
 ### Github 活跃度
