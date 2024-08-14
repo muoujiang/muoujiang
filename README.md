@@ -1,12 +1,17 @@
 ## 金融转数分 Transitioning From Finance To Data Analysis
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+
+
 [![领英](https://img.shields.io/badge/领英-Linkedin-blue)](https://www.linkedin.com/in/shanshan-wang-19b2411aa/)
 ![](https://img.shields.io/badge/性格-ENFP-red) 
 ![](https://img.shields.io/badge/喜欢-学代码-purple) 
 ![](https://img.shields.io/badge/爱好-看剧-pink)
+<br><br><br>
+
 
 ### 项目 Project
 
-<img align="right" alt="GIF" src="code.gif" width="400" height="100%" />
+<img align="right" alt="GIF" src="code.gif" width="300" height="80%" />
  
 挖坑：整理微信聊天记录可视化步骤
 
@@ -16,6 +21,7 @@
 
 [![AcadHomepage](https://github-readme-stats.vercel.app/api/pin/?username=muoujiang&repo=muoujiang.github.io)](https://github.com/muoujiang/muoujiang.github.io)
 <br><br><br>
+
 
 
 ### Github 活跃度
