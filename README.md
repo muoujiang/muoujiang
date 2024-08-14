@@ -10,7 +10,7 @@
  
 挖坑：整理微信聊天记录可视化步骤
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=muoujiang&repo=muoujiang)](https://www.linkedin.com/feed/update/urn:li:activity:7229169962685247488/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=muoujiang&repo=WeChat_DataAnalysis)](https://github.com/muoujiang/WeChat_DataAnalysis/blob/main/README.md)
 
 大佬弄的学术主页
 
