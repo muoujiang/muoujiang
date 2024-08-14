@@ -1,6 +1,6 @@
 ## 金融转数分 Transitioning From Finance To Data Analysis
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
+<img align="right" src="https://count.getloli.com/get/@:muoujiang?theme=rule34">
 
 [![领英](https://img.shields.io/badge/领英-Linkedin-blue)](https://www.linkedin.com/in/shanshan-wang-19b2411aa/)
 ![](https://img.shields.io/badge/性格-ENFP-red) 
